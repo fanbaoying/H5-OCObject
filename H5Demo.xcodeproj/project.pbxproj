@@ -15,6 +15,21 @@
 		4570BED21FCFEEFF001D3EA5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4570BED11FCFEEFF001D3EA5 /* main.m */; };
 		4570BEDC1FCFEEFF001D3EA5 /* H5DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4570BEDB1FCFEEFF001D3EA5 /* H5DemoTests.m */; };
 		4570BEE71FCFEEFF001D3EA5 /* H5DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4570BEE61FCFEEFF001D3EA5 /* H5DemoUITests.m */; };
+		4570BF071FCFEF0F001D3EA5 /* common.css in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEF51FCFEF0F001D3EA5 /* common.css */; };
+		4570BF081FCFEF0F001D3EA5 /* firstJS.js in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEF61FCFEF0F001D3EA5 /* firstJS.js */; };
+		4570BF091FCFEF0F001D3EA5 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEF71FCFEF0F001D3EA5 /* index.html */; };
+		4570BF0A1FCFEF0F001D3EA5 /* newPic2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEF81FCFEF0F001D3EA5 /* newPic2.png */; };
+		4570BF0B1FCFEF0F001D3EA5 /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4570BEFA1FCFEF0F001D3EA5 /* NextViewController.m */; };
+		4570BF0C1FCFEF0F001D3EA5 /* astronomy1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEFC1FCFEF0F001D3EA5 /* astronomy1.png */; };
+		4570BF0D1FCFEF0F001D3EA5 /* comic1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEFD1FCFEF0F001D3EA5 /* comic1.png */; };
+		4570BF0E1FCFEF0F001D3EA5 /* game1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEFE1FCFEF0F001D3EA5 /* game1.png */; };
+		4570BF0F1FCFEF0F001D3EA5 /* life1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BEFF1FCFEF0F001D3EA5 /* life1.png */; };
+		4570BF101FCFEF0F001D3EA5 /* movie1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BF001FCFEF0F001D3EA5 /* movie1.png */; };
+		4570BF111FCFEF0F001D3EA5 /* music1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BF011FCFEF0F001D3EA5 /* music1.png */; };
+		4570BF121FCFEF0F001D3EA5 /* science1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BF021FCFEF0F001D3EA5 /* science1.png */; };
+		4570BF131FCFEF0F001D3EA5 /* show1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BF031FCFEF0F001D3EA5 /* show1.png */; };
+		4570BF141FCFEF0F001D3EA5 /* TV1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4570BF041FCFEF0F001D3EA5 /* TV1.png */; };
+		4570BF151FCFEF0F001D3EA5 /* TypeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4570BF061FCFEF0F001D3EA5 /* TypeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,23 @@
 		4570BEE21FCFEEFF001D3EA5 /* H5DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = H5DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4570BEE61FCFEEFF001D3EA5 /* H5DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = H5DemoUITests.m; sourceTree = "<group>"; };
 		4570BEE81FCFEEFF001D3EA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4570BEF51FCFEF0F001D3EA5 /* common.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = common.css; sourceTree = "<group>"; };
+		4570BEF61FCFEF0F001D3EA5 /* firstJS.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = firstJS.js; sourceTree = "<group>"; };
+		4570BEF71FCFEF0F001D3EA5 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		4570BEF81FCFEF0F001D3EA5 /* newPic2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newPic2.png; sourceTree = "<group>"; };
+		4570BEF91FCFEF0F001D3EA5 /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
+		4570BEFA1FCFEF0F001D3EA5 /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
+		4570BEFC1FCFEF0F001D3EA5 /* astronomy1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = astronomy1.png; sourceTree = "<group>"; };
+		4570BEFD1FCFEF0F001D3EA5 /* comic1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = comic1.png; sourceTree = "<group>"; };
+		4570BEFE1FCFEF0F001D3EA5 /* game1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = game1.png; sourceTree = "<group>"; };
+		4570BEFF1FCFEF0F001D3EA5 /* life1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = life1.png; sourceTree = "<group>"; };
+		4570BF001FCFEF0F001D3EA5 /* movie1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = movie1.png; sourceTree = "<group>"; };
+		4570BF011FCFEF0F001D3EA5 /* music1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music1.png; sourceTree = "<group>"; };
+		4570BF021FCFEF0F001D3EA5 /* science1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = science1.png; sourceTree = "<group>"; };
+		4570BF031FCFEF0F001D3EA5 /* show1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = show1.png; sourceTree = "<group>"; };
+		4570BF041FCFEF0F001D3EA5 /* TV1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TV1.png; sourceTree = "<group>"; };
+		4570BF051FCFEF0F001D3EA5 /* TypeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TypeViewController.h; sourceTree = "<group>"; };
+		4570BF061FCFEF0F001D3EA5 /* TypeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TypeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +133,7 @@
 		4570BEC11FCFEEFF001D3EA5 /* H5Demo */ = {
 			isa = PBXGroup;
 			children = (
+				4570BEF41FCFEF0F001D3EA5 /* Type */,
 				4570BEC21FCFEEFF001D3EA5 /* AppDelegate.h */,
 				4570BEC31FCFEEFF001D3EA5 /* AppDelegate.m */,
 				4570BEC51FCFEEFF001D3EA5 /* ViewController.h */,
@@ -130,6 +163,38 @@
 				4570BEE81FCFEEFF001D3EA5 /* Info.plist */,
 			);
 			path = H5DemoUITests;
+			sourceTree = "<group>";
+		};
+		4570BEF41FCFEF0F001D3EA5 /* Type */ = {
+			isa = PBXGroup;
+			children = (
+				4570BEF51FCFEF0F001D3EA5 /* common.css */,
+				4570BEF61FCFEF0F001D3EA5 /* firstJS.js */,
+				4570BEF71FCFEF0F001D3EA5 /* index.html */,
+				4570BEF81FCFEF0F001D3EA5 /* newPic2.png */,
+				4570BEF91FCFEF0F001D3EA5 /* NextViewController.h */,
+				4570BEFA1FCFEF0F001D3EA5 /* NextViewController.m */,
+				4570BEFB1FCFEF0F001D3EA5 /* typePic */,
+				4570BF051FCFEF0F001D3EA5 /* TypeViewController.h */,
+				4570BF061FCFEF0F001D3EA5 /* TypeViewController.m */,
+			);
+			path = Type;
+			sourceTree = "<group>";
+		};
+		4570BEFB1FCFEF0F001D3EA5 /* typePic */ = {
+			isa = PBXGroup;
+			children = (
+				4570BEFC1FCFEF0F001D3EA5 /* astronomy1.png */,
+				4570BEFD1FCFEF0F001D3EA5 /* comic1.png */,
+				4570BEFE1FCFEF0F001D3EA5 /* game1.png */,
+				4570BEFF1FCFEF0F001D3EA5 /* life1.png */,
+				4570BF001FCFEF0F001D3EA5 /* movie1.png */,
+				4570BF011FCFEF0F001D3EA5 /* music1.png */,
+				4570BF021FCFEF0F001D3EA5 /* science1.png */,
+				4570BF031FCFEF0F001D3EA5 /* show1.png */,
+				4570BF041FCFEF0F001D3EA5 /* TV1.png */,
+			);
+			path = typePic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,7 +304,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				4570BECF1FCFEEFF001D3EA5 /* LaunchScreen.storyboard in Resources */,
+				4570BF131FCFEF0F001D3EA5 /* show1.png in Resources */,
 				4570BECC1FCFEEFF001D3EA5 /* Assets.xcassets in Resources */,
+				4570BF101FCFEF0F001D3EA5 /* movie1.png in Resources */,
+				4570BF0D1FCFEF0F001D3EA5 /* comic1.png in Resources */,
+				4570BF141FCFEF0F001D3EA5 /* TV1.png in Resources */,
+				4570BF0F1FCFEF0F001D3EA5 /* life1.png in Resources */,
+				4570BF0A1FCFEF0F001D3EA5 /* newPic2.png in Resources */,
+				4570BF081FCFEF0F001D3EA5 /* firstJS.js in Resources */,
+				4570BF0E1FCFEF0F001D3EA5 /* game1.png in Resources */,
+				4570BF121FCFEF0F001D3EA5 /* science1.png in Resources */,
+				4570BF111FCFEF0F001D3EA5 /* music1.png in Resources */,
+				4570BF091FCFEF0F001D3EA5 /* index.html in Resources */,
+				4570BF071FCFEF0F001D3EA5 /* common.css in Resources */,
+				4570BF0C1FCFEF0F001D3EA5 /* astronomy1.png in Resources */,
 				4570BECA1FCFEEFF001D3EA5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,7 +343,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4570BF151FCFEF0F001D3EA5 /* TypeViewController.m in Sources */,
 				4570BEC71FCFEEFF001D3EA5 /* ViewController.m in Sources */,
+				4570BF0B1FCFEF0F001D3EA5 /* NextViewController.m in Sources */,
 				4570BED21FCFEEFF001D3EA5 /* main.m in Sources */,
 				4570BEC41FCFEEFF001D3EA5 /* AppDelegate.m in Sources */,
 			);

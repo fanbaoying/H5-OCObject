@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+#import "TypeViewController.h"
+
 @interface AppDelegate ()
 
 @end
@@ -17,6 +19,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    TypeViewController *tvc = [[TypeViewController alloc]init];
+    UINavigationController *nav4 = [[UINavigationController alloc]initWithRootViewController:tvc];
+    self.window.rootViewController = nav4;
+    
+    [self.window makeKeyAndVisible];
+    
     return YES;
 }
 
